@@ -1,0 +1,1 @@
+BotSpam(simples) criado com o python, ele não funciona com acentos.
